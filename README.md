@@ -2,7 +2,7 @@
 
 A tutorial on reproducible workflow and dynamic documents with Jupyter Notebook for the BITSS Research Transparency and Reproducibility Training (RT2), September 3, 2021.
 
-* Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/valdanchev/dynamic-documents-with-jupyter-notebook/blob/main/Dynamic_Documents_with_Jupyter_Notebook.ipynb)
 
 ## License
