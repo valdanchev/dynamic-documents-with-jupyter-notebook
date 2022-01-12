@@ -1,4 +1,4 @@
-# Dynamic Documents with Jupyter Notebook
+# Dynamic Documents with Jupyter Notebook for Reproducible Workflows
 
 A tutorial on reproducible workflow and dynamic documents with Jupyter Notebook for the BITSS Research Transparency and Reproducibility Training (RT2), September 3, 2021.
 
